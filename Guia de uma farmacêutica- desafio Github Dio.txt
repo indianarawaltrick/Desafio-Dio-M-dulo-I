@@ -1,0 +1,40 @@
+## Desafio de projeto do Git/Github
+
+## 
+
+### ## O que devo me certificar de ter entendido ao final desse desafio:
+
+
+
+- Criar repositórios no Git;
+
+- Enviar arquivos, modificá-los, e reenvia-los ao repositório remoto;
+
+  
+
+## Passos a seguir: :pen:
+
+- Criar um novo repositório, marcar add README para acrescentar links úteis.
+- Em code, selecionar a opção "https", selecionar o link para copiar.
+- Abrir o Git Bash na pasta onde desejo trabalhar, iniciar com "git clone e colo o arquivo que copiei".
+- Faço as modificações que desejo, dou git status, para me certificar de como estão as atualizações que realizei. O sistema deve me informar que há novas alterações a serem comitadas e sugerir o "git add" para adcioná-las ao meu arquivo. o comando a ser usado é "git add -a" ou "git add .".
+- Após isso, posso verificar o statuS novamente, para me certificar que deu certo e "git commit -m "Incluir uma mensagem aqui que sugira o que realizei"
+- "git status", que deverá me sugerir o git push :git push origin main
+- A atualização do arquivo deverá aparecer no GitHub nesse momento.
+
+
+
+"A persistência é o caminho do êxito". (Charlin Chaplin)
+
+
+
+
+
+
+
+
+
+
+
+
+
